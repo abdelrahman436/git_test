@@ -1,0 +1,42 @@
+body{
+    background-color:#0000ff;
+}
+
+h1{
+    border: 1px solid black;
+}
+h4{
+    color: purple;
+}
+#email{
+    border: 2px solid rgb(139,0,0) ;
+}
+
+#password{
+    border: 2px solid rgb(139,0,0) 
+}
+
+#A7A{
+    border: 2px solid rgb(139,0,0) 
+}
+#A7A2{
+    border: 2px solid rgb(139,0,0) 
+}
+#paragrafe1{
+    background-color: #FFFFE0;
+}
+
+#paragrafe1{
+    background-color: #FFFF00;
+}
+#paragrafe2{
+    background-color: #FFFF00;
+}
+#A7A{
+    border: 5px solid gray;
+    width: 800px;
+    height: 400px;
+}
+ol li a{
+    color: red;
+}

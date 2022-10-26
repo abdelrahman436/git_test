@@ -1,0 +1,30 @@
+#head1{
+    color: back;
+    border: 2px solid black;
+}
+body{
+    background-color: rgb(135, 206, 235);
+}
+
+#paragrafe1{
+    background-color: rgb(229, 229, 122);
+}
+
+#head2{
+    color: rgb(80, 8, 96);
+}
+
+#take1{
+    color: rgb(80, 8, 96);
+}
+a{
+    color: blue;
+}
+#last_form_id{
+    background-color: blue;
+    border: 4px dashed yellow;
+}
+
+#last_form_id_h4{
+    background-color: rgb(216, 216, 197);
+}
